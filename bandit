@@ -115,4 +115,14 @@ NvEJF7oVjkddltPSrdKEFOllh9V1IBcq
 
 Level21->Level22
 cat /etc/cron.d/cronjob_bandit22
+WdDozAdTM2z9DiFEQ2mGlwngMfj4EZff
+
+Level22->Level23
 QYw0Y2aiA672PsMmh9puTQuhoz8SyR2G
+
+Level23->Level24
+#!/bin/bash
+cat /etc/bandit_pass/bandit24 > /tmp/tmp23/output
+chmod 777 ./output
+cp ./script.sh /var/spool/bandit24/foo/script.sh
+VAfGXJ1PBSsPSnvsjI8p759leLZ9GGar
