@@ -3,3 +3,19 @@ PPIfmI1qsA
 
 Leve1->Level2
 mEh5PNl10e
+
+Leve2->Level3
+Q0G8j4sakn
+
+Leve3->Level4
+AgvropI4OA
+
+Leve4->Level5
+EKKlTF1Xqs
+
+Leve5->Level6
+YZ55XPVk2l
+
+Leve6->Level7
+for i in $(seq -f "%04g" 0 9999); do ./leviathan6 $i >> /tmp/tmp6/output; done;
+8GpZ5f8Hze
